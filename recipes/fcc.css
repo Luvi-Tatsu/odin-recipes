@@ -1,0 +1,33 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(146, 129, 82);
+}
+img{
+    border: 3px solid burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30%;
+    width: 30%;
+    align-items: flex-start;
+    display: flex;
+    display: block;
+}
+ul{
+    list-style-type: none;
+    line-height: 1.4;
+}
+ol{
+    line-height: 1.5;
+    list-style-position: inside;
+    text-align: left;
+    
+}
+
+a{
+   
+    text-decoration: none;
+    text-align: center;
+}
+button{
+    background-color: blue;
+}
